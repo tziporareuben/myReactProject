@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# myReactProject
+שפרויקט צד שרת וצד לקוח בריאקט -הפרויקט מדמה אתר חדשות וכולל הרשמה לאתר והתחברות ויש אפשרות גם לכתוב תגובות לכתבות והשרת שומר משתמשי כתבות ותגובות וחוץ מזה יש עוד דברים 
+>>>>>>> 50d21dd04d34c6cb28425788c7671187670cfbac
